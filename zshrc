@@ -17,9 +17,6 @@ alias di="docker images"
 # Get container IP
 alias dip="docker inspect --format '{{ .NetworkSettings.IPAddress }}'"
 
-# Get latest container IP
-alias dlip="docker inspect --format '{{ .NetworkSettings.IPAddress }}' `dl`"
-
 # Run deamonized container, e.g., $dkd base /bin/echo hello
 alias dkd="docker run -d -P"
 
