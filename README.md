@@ -18,5 +18,5 @@ $ curl -fsSL https://raw.github.com/tcnksm/docker-alias/master/zshrc >> ~/.bashr
 
 ## Reference
 
-- [Useful Docker Bash functions and aliases](http://www.kartar.net/2014/03/some-useful-docker-bash-functions-and-aliases/)
-- [15 QUICK DOCKER TIPS](http://www.centurylinklabs.com/15-quick-docker-tips/)
+- [Useful Docker Bash functions and aliases](http://kartar.net/2014/03/useful-docker-bash-functions-and-aliases)
+- [15 QUICK DOCKER TIPS](https://labs.ctl.io/15-quick-docker-tips/)
